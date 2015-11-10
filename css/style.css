@@ -1,0 +1,97 @@
+.header{
+	background-color: white;
+	color: #C4161C;
+	text-align: center;
+	font-family:verdana, arial, sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	padding: 25px;
+}
+
+.subhead{
+	font-family: verdana, sans-serif, arial;
+	font-size: 14px;
+	word-spacing: 5px;
+	color: #333333;
+}
+
+.date{
+	font-family: helvetica, arial;
+	font-size: 18px;
+	color: #333333;
+	margin-top: 25px;
+	word-spacing: 5px;
+}
+
+.breifing{
+	font-size: 14px;
+	margin-top: 25px;
+	word-spacing: 5px;
+}
+
+a{
+	color: #14ABDE;
+}
+
+
+.line{
+	border-bottom: 1px solid gray;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+h2{
+	font-family: Helvetica, arial, serif;
+	font-size: 14px;
+	color: #C4161C;
+	font-weight: bolder;
+	text-transform: uppercase;
+	padding-top: 10px;
+}
+
+
+h3{
+	font-family: Helvetica, arial, serif;
+	text-align: center;
+	font-size: 30px;
+	padding-left: 75px;
+	padding-right: 75px;
+	line-height: 35px;
+}
+
+li{
+	list-style-type: decimal;
+	font-size: 14px;
+	line-height: 18px;
+	padding-bottom: 7px;
+	padding-top: 5px;
+
+
+}
+
+h4{
+	font-family: helvetica, arial;
+	font-size: 20px;
+	color: #333333;
+	word-spacing: 5px;
+	margin-top: 10px;
+}
+
+h5{
+	font-family: helvetica, arial;
+	font-style: bold;
+	font-size: 20px;
+	color: #333333;
+	word-spacing: 5px;
+	margin-top: 10px;
+}
+
+.footer{
+	background-color: #AAAAAA;
+	color: #333333;
+	padding-bottom: 15px;
+	padding: 20px 30px 20px 30px;
+   	font-family: verdana, arial, serif;
+
+}
